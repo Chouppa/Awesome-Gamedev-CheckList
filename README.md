@@ -37,7 +37,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 ## **Art**
 
 * Lots of icons from iOS apps ([link](https://iosicongallery.com/)).
-* A gallery of interesting visual styles used in games ([link](http://videogameartstyles.tumblr.com/)).
+* A gallery of interesting visual styles used in games ([link](http://videogameartstyles.tumblr.com/)).✅
 * Futuristic interfaces from movies and videogames ([link](http://futureinterface.tumblr.com/)).
 * Videogames logos ([link](http://gamelogos.tumblr.com/)).
 * Blender to Unity workflow ([link](http://zakjr.com/blog/blender-to-unity-workflow-part-1/)).
