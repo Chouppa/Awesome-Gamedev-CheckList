@@ -36,9 +36,9 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 
 ## **Art**
 
-* Lots of icons from iOS apps ([link](https://iosicongallery.com/)).
+* Lots of icons from iOS apps ([link](https://iosicongallery.com/)).✅
 * A gallery of interesting visual styles used in games ([link](http://videogameartstyles.tumblr.com/)).✅
-* Futuristic interfaces from movies and videogames ([link](http://futureinterface.tumblr.com/)).
+* Futuristic interfaces from movies and videogames ([link](http://futureinterface.tumblr.com/)).✅
 * Videogames logos ([link](http://gamelogos.tumblr.com/)).
 * Blender to Unity workflow ([link](http://zakjr.com/blog/blender-to-unity-workflow-part-1/)).
 * No bullshit pixel art tutorial ([link](http://pixelartus.com/post/85312310886/retronator-no-bullshit-pixel-art-tutorial)).
